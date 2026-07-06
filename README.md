@@ -3,7 +3,7 @@
 A web-based Smart Classroom Timetable Scheduler developed using Spring Boot to simplify classroom timetable management for colleges and educational institutions.
 
 ## 📌 Project Description
-
+ 
 The Smart Classroom Timetable Scheduler helps administrators efficiently manage classroom schedules. Users can create, update, search, and delete timetable records through an easy-to-use web interface.
 
 ---
